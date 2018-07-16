@@ -1,0 +1,43 @@
+{
+  "name": "aqueous",
+  "version": "1.0.0",
+  "description": "BlockChain something or another",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack",
+    "package": "webpack --minimize",
+    "test": "jest --config jestConfig.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damien91/Aqueous-.git"
+  },
+  "keywords": [
+    "BlockChain",
+    "something",
+    "or",
+    "another"
+  ],
+  "author": "Authors",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/Damien91/Aqueous-/issues"
+  },
+  "homepage": "https://github.com/Damien91/Aqueous-#readme",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.21.0",
+    "jest": "^23.4.1",
+    "ts-jest": "^23.0.0",
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.9.2",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "blockchain-javascript": "^1.0.6"
+  }
+}

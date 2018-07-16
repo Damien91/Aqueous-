@@ -1,0 +1,6 @@
+/* 
+ * Copyright (C) Aqueous something or another - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Austin for someone <not.giving.it.out.com>, Jan 1, 1970 (Epoch)
+ */
